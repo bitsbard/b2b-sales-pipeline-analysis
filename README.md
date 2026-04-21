@@ -16,15 +16,6 @@ This project delivers a five-page Power BI dashboard and a one-page executive me
 
 ---
 
-## Scope Limits (Analytical Maturity — Name What You're Not Doing)
-
-| Constraint | Reason |
-|---|---|
-| **No CAC / marketing funnel analysis** | The dataset contains no marketing spend, campaign, or lead-source data. Funnel here is sales-side only (from opportunity creation forward). |
-| **No customer churn or renewal analysis** | The dataset contains no subscription, renewal, or contract-term data. Deal cohort analysis is the B2B new-business analog — tracking win rate and realized revenue for groups of deals opened in the same month. |
-
----
-
 ## Key Metrics (Defined Up Front)
 
 | Metric | Definition |
