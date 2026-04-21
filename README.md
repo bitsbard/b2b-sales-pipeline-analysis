@@ -3,7 +3,7 @@
 **MavenTech converts 63.2% of engaged prospects to closed-won deals, but only 48.2% of all 8,800 opportunities ever reach a Win. Analysis reveals the critical leak is at the Engaging stage, where 2,473 deals — representing an estimated $5.85M in potential revenue — were ultimately Lost. Using BigQuery for data modeling and Looker Studio for visualization, this project pinpoints coaching and product-mix opportunities that could recover $1–2M in annual revenue.**
 
 > **View Dashboard:** [Looker Studio Report](#) *(set to "Anyone with the link can view")*
-> **View Executive Memo:** [Project2_Insights_VP.pdf](./Project2_Insights_VP.pdf)
+> **View Executive Memo:** [Project_Insights_VP.pdf](./Project_Insights_VP.pdf)
 
 ---
 
@@ -165,7 +165,7 @@ b2b-sales-pipeline-analysis/
 │   ├── 03_funnel_analysis.sql
 │   ├── 04_rep_performance.sql
 │   └── 05_pipeline_health.sql
-├── Project2_Insights_VP.pdf     # Executive memo for VP of Sales
+├── Project_Insights_VP.pdf      # Executive memo for VP of Sales
 └── README.md
 ```
 
