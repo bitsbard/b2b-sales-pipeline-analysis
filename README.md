@@ -1,6 +1,6 @@
 # MavenTech B2B Sales Pipeline Analysis
 
-**MavenTech closes 63.2% of engaged prospects as Won deals — but 36.8% are lost at the Engaging stage, the only stage where deals die at scale. The lowest-performing product is GTK 500 / MG Advanced (60.3% win rate vs. 64.8% for MG Special), and the widest rep-level gap is 15 percentage points (Lajuana Vencill at 55.0% vs. Hayden Neloms at 70.4%). Recommendation: focus rep coaching on objection handling at the Engaging stage and investigate MG Advanced's positioning against competitors. Full interactive dashboard: [Power BI Service — MavenTech Pipeline](https://app.powerbi.com/links/PLACEHOLDER_PUBLISH_URL)**
+**MavenTech closes 63.2% of engaged prospects as Won deals — but 36.8% are lost at the Engaging stage, the only stage where deals die at scale. The lowest-performing product is GTK 500 / MG Advanced (60.3% win rate vs. 64.8% for MG Special), and the widest rep-level gap is 15 percentage points (Lajuana Vencill at 55.0% vs. Hayden Neloms at 70.4%). Recommendation: focus rep coaching on objection handling at the Engaging stage and investigate MG Advanced's positioning against competitors.**
 
 ---
 
@@ -236,13 +236,3 @@ B2B_Sales_Pipeline_Analysis/
 ```
 
 ---
-
-## Live Dashboard
-
-[Power BI Service — MavenTech Sales Pipeline](https://app.powerbi.com/links/PLACEHOLDER_PUBLISH_URL)
-
-*To publish: open `MavenTech_Pipeline.pbix` in Power BI Desktop → File → Publish → Publish to Power BI → select your workspace. Update the link above with the live URL.*
-
----
-
-*Analysis by Jared Mills · github.com/bitsbard · Data: Maven Analytics CRM Sales Opportunities*
