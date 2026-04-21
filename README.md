@@ -38,7 +38,7 @@ This project delivers a five-page Power BI dashboard and a one-page executive me
 | `products.csv` | 7 | Product name, series, and list price |
 | `sales_teams.csv` | 30 | Agent → manager → regional office |
 
-Source: [Maven Analytics CRM Sales Opportunities dataset](https://www.mavenanalytics.io/data-playground)
+Source: [Maven Analytics CRM Sales Opportunities dataset](https://mavenanalytics.io/data-playground/crm-sales-opportunities)
 
 ---
 
