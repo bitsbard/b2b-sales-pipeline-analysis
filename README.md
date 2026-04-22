@@ -1,4 +1,4 @@
-# Where Is the Pipeline Leaking? — B2B Sales Pipeline Analysis
+# B2B Sales Pipeline Analysis
 
 **MavenTech converts 63.2% of engaged prospects to closed-won deals, but only 48.2% of all 8,800 opportunities ever reach a Win. Analysis reveals the critical leak is at the Engaging stage, where 2,473 deals — representing an estimated $5.85M in potential revenue — were ultimately Lost. Using BigQuery for data modeling and Looker Studio for visualization, this project pinpoints coaching and product-mix opportunities that could recover $1–2M in annual revenue.**
 
