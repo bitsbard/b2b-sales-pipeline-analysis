@@ -116,7 +116,7 @@ FROM stage_counts;
 
 ## Looker Studio Dashboard
 
-Connect Looker Studio directly to `analytics.fact_opportunities` (joined to dimensions via BigQuery views). The dashboard includes five panels:
+Looker Studio connects directly to `analytics.fact_opportunities` (joined to dimensions via BigQuery views). The dashboard includes five panels:
 
 1. **Revenue Trend** — Monthly time-series of `close_value` filtered by product and region
 2. **Deal Cohort Heatmap** — Pivot table: Month Opened (rows) × Win Rate (values), colored by performance vs. average
